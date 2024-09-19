@@ -2,12 +2,12 @@
 # Display name
 title: Shuang Gao
 
-# # Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
+# Name pronunciation (optional)
+name_pronunciation: " "
 
-# # Full name (for SEO)
-# first_name: Shiung Wu
-# last_name: Chien
+# Full name (for SEO)
+first_name: Shuang
+last_name: Gao
 
 # Status emoji
 status:
@@ -27,24 +27,24 @@ organizations:
   - name: Arizona State University
     url: https://search.asu.edu/profile/3896231
 
-# Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-# profiles:
-#   - icon: at-symbol
-#     url: 'mailto:your-email@example.com'
-#     label: E-mail Me
-#   - icon: brands/x
-#     url: https://twitter.com/GetResearchDev
-#   - icon: brands/instagram
-#     url: https://www.instagram.com/
-#   - icon: brands/github
-#     url: https://github.com/gcushen
-#   - icon: brands/linkedin
-#     url: https://www.linkedin.com/
-#   - icon: academicons/google-scholar
-#     url: https://scholar.google.com/
-#   - icon: academicons/orcid
-#     url: https://orcid.org/
+Social network links
+Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+profiles:
+  - icon: at-symbol
+    url: 'shuanggao@asu.com'
+    label: E-mail Me
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
+  - icon: brands/github
+    url: https://github.com/sharon-gao
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/sharon-shuang-gao
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=AbJUO5MAAAAJ&hl=en
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
 
 interests:
   - Economics of Information Systems
